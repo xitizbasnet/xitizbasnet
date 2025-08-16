@@ -12,7 +12,7 @@ Fast forward ⏩ — I’m **Xitiz Basnet**, a curious human with big dreams and
 
 > 👨‍💻 System Administrator & IT Researcher blending tech, cloud, and humor — one secure connection at a time. 🔐🌐😄
 
-🎓 MBA in HR Development | BCS in Computer Science  
+🎓 MBA in HR | BCS in Computer Science  
 📍 Based in Kathmandu, Nepal  
 🔍 Currently exploring **PhD opportunities** in cutting-edge IT domains.  
 😄 Once a baby boy curious about wires — now a man who tames servers like pets
