@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hello, I'm Alex 👋
+
+## 💻 Developer | 📘 Tech Writer | 🌍 Open Source Enthusiast
+
+### 🔧 Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+
+### 📈 GitHub Stats:
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codewizard123&show_icons=true&theme=radical)
