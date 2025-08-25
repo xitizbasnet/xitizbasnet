@@ -134,19 +134,6 @@ Fast forward ⏩ — I’m **Xitiz Basnet**, a curious human with big dreams and
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xitizbasnet&show_icons=true&theme=gruvbox&border_radius=10" width="48%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizbasnet&layout=compact&theme=gruvbox&border_radius=10" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xitizbasnet&theme=gruvbox&hide_border=true" width="60%"/>
-</p>
-
----
-
 ## 🤖 Fun Fact
 
 > "I speak 3 human languages… and about 10 machine ones." 🤓  
@@ -165,8 +152,14 @@ Fast forward ⏩ — I’m **Xitiz Basnet**, a curious human with big dreams and
 
 ---
 
-> 🧠 “Behind every great IT setup, there’s a tired sysadmin quietly solving everything.”  
-> Thanks for scrolling! Now go check out my [repositories](https://github.com/xitizbasnet?tab=repositories) and say hi 👋
+> 🧠 “Behind every great IT setup, there’s a tired sysadmin quietly solving everything.”
+
+ 
+> Thanks for scrolling!
+
+
+
+> You can check out my [repositories](https://github.com/xitizbasnet?tab=repositories) and say hi 👋
 
 
 
