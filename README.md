@@ -57,7 +57,8 @@ Fast forward ⏩ — I’m **Xitiz Basnet**, a curious human with big dreams and
 
 | 📜 Certification | 🎯 Authority | 📆 Date |
 |------------------|-------------|--------|
-| ✅ **Microsoft 365 Administrator (MS-102)** | Microsoft | June 19, 2025 |
+| ✅ **Microsoft 365 Certified: Administrator Expert** | Microsoft | October 13, 2025 |
+| ✅ **Microsoft Certified: Identity and Access Administrator Associate** | Microsoft | October 13, 2025 |
 | ⚙️ **Power Automate Automation** | Microsoft | June 20, 2025 |
 | 🔐 **Secure Azure Storage** | Microsoft | June 21, 2025 |
 | 🧱 **Canvas Apps with Power Apps** | Microsoft | June 22, 2025 |
