@@ -10,7 +10,7 @@ Fast forward ⏩ — I’m **Xitiz Basnet**, a curious human with big dreams and
 
 # 👋 Hello, I'm **Xitiz Basnet**
 
-> 👨‍💻 System Administrator & IT Researcher blending tech, cloud, and humor — one secure connection at a time. 🔐🌐😄
+> 👨‍💻 Assitant Manager - IT (Infra & Security) & IT Researcher blending tech, cloud, and humor — one secure connection at a time. 🔐🌐😄
 
 🎓 Master in Business Administration | Bachelor's in Computer Science(HONS)  
 📍 Based in Kathmandu, Nepal  
