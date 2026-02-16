@@ -1,5 +1,5 @@
 <!-- Typing Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Xitiz+Basnet+%F0%9F%91%8B;System+Administrator+%7C+Cloud+Explorer+%7C+IT+Researcher;Always+Learning+Something+New...+%F0%9F%94%A5)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Xitiz+Basnet+%F0%9F%91%8B;Assistant+Manager+%7C+Cloud+Explorer+%7C+IT+Researcher;Always+Learning+Something+New...+%F0%9F%94%A5)
 
 # 👶 Who Am I?
 
