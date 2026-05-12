@@ -14,7 +14,6 @@ Fast forward ⏩ — I’m **Xitiz Basnet**, a curious human with big dreams and
 
 🎓 Master in Business Administration | Bachelor's in Computer Science(HONS)  
 📍 Based in Kathmandu, Nepal  
-🔍 Currently exploring **PhD opportunities** in cutting-edge IT domains.  
 😄 Once a baby boy curious about wires — now a man who tames servers like pets
 
 🌍 Trying to balance `ping`, `break`, `fix`, `repeat` with cups of coffee ☕
