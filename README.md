@@ -104,7 +104,7 @@ Fast forward ⏩ — I’m **Xitiz Basnet**, a curious human with big dreams and
 
 📍 Published in 30th International Conference on “IT Applications and Management (ITAM) Society, S.Korea held in Kathmandu, pg.197
 
-⏰ 12-16 Feb, 2025, 
+⏰ 2026-05-12 
 
 🧠 Bridging HR practices with secure biometric attendance in manufacturing  
 
