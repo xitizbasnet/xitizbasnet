@@ -101,8 +101,17 @@ Fast forward ⏩ — I’m **Xitiz Basnet**, a curious human with big dreams and
 ## 📚 Research & Publications
 
 📝 *“Human Resource Intervention and Employee Absenteeism: A Moderation of Biometric Attendance”*  
-📍 Published in Proceedings of the 30th International Conference on “IT Applications and Management (ITAM-30), p.197 – ⏰ 2025  
+📍 Published in 30th International Conference on “IT Applications and Management (ITAM) Society, S.Korea held in Kathmandu, ⏰ 12-16 Feb, 2025, p.197
 🧠 Bridging HR practices with secure biometric attendance in manufacturing  
+
+📖 Article Link:
+https://www.nepjol.info/index.php/sadgamaya/article/view/94079
+
+📄 Full Paper:
+https://www.nepjol.info/index.php/sadgamaya/article/view/94079/71313
+
+📄 DOI:
+ https://doi.org/10.3126/sadgamaya.v3i1.94079
 
 ---
 
@@ -142,12 +151,6 @@ Fast forward ⏩ — I’m **Xitiz Basnet**, a curious human with big dreams and
 ---
 
 ## 🧭 What's Next?
-
-📚 Applying for PhD in:
-- 🛡️ Infrastructure & Cloud Security
-- 🤖 AI Monitoring for Systems
-- ☁ Automation in Cloud Ops  
-
 💬 Interested in collaborations, research, or a chat about coffee + tech? Let’s connect!
 
 ---
