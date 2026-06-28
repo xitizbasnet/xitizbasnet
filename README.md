@@ -93,7 +93,7 @@ Fast forward ⏩ — I’m **Xitiz Basnet**, a curious human with big dreams and
 👟 Supporting servers, continuity, and solving the unsolvable.
 
 ⬇️  
-🟦 **2024–Now** — *System Administrator* @ Golyan Group  
+🟦 **2024–Now** — *Assitant Manager - IT (Infra & Security)* @ Golyan Group  
 🚀 Designing infrastructure, implementing security, and living the sysadmin dream!
 
 ---
